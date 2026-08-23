@@ -1,7 +1,14 @@
 @import "tailwindcss";
 
+/* Áp dụng cho toàn bộ web: cuộn mượt khi bấm menu */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Chỉ kích hoạt khi in hoặc lưu trang thành PDF (Ctrl + P) */
 @media print {
   body {
     background-color: #ffffff !important;
+    font-family: Calibri, 'Segoe UI', Arial, sans-serif !important;
   }
 }
