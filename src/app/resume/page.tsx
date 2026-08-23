@@ -106,6 +106,10 @@ export default function ResumePage() {
                       <span className="text-[10px] text-slate-400 block uppercase font-bold">GITHUB</span>
                       <span className="font-semibold text-sky-700">github.com/hydroheo</span>
                     </div>
+                    <div>
+                      <span className="text-[10px] text-slate-400 block uppercase font-bold">WEBSITE</span>
+                      <span className="font-semibold text-sky-700">hydroheo.site</span>
+                    </div>
                   </div>
                 </div>
 

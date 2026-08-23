@@ -388,7 +388,7 @@ export default function Home() {
             </div>
             <div className="self-start md:self-center px-4 py-2 rounded-xl bg-cyan-950/40 border border-cyan-500/30 text-cyan-400 text-xs font-mono">
               <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 inline-block animate-pulse mr-2" />
-              STATUS: <strong className="text-white">Deployed / Verified</strong>
+              STATUS: <strong className="text-white">Completed / Video Walkthrough</strong>
             </div>
           </div>
 
@@ -489,7 +489,7 @@ export default function Home() {
             </div>
             <div className="self-start md:self-center px-4 py-2 rounded-xl bg-cyan-950/40 border border-cyan-500/30 text-cyan-400 text-xs font-mono whitespace-nowrap">
               <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 inline-block animate-pulse mr-2" />
-              STATUS: <strong className="text-white">Deployed / Verified</strong>
+              STATUS: <strong className="text-white">Completed / Video Walkthrough</strong>
             </div>
           </div>
 
