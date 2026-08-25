@@ -121,11 +121,11 @@ export default function ResumePage() {
                   <div className="text-[11.5px] space-y-3 pt-2">
                     <div>
                       <div className="font-bold text-slate-900">Networking</div>
-                      <div className="text-slate-600">OSPF, VLAN (802.1Q), STP/RSTP, VRRP/HSRP, Static Routing, TCP/IP</div>
+                      <div className="text-slate-600">OSPF, VLAN (802.1Q), STP/RSTP, Static Routing, TCP/IP, DHCP, DNS</div>
                     </div>
                     <div>
                       <div className="font-bold text-slate-900">Security</div>
-                      <div className="text-slate-600">pfSense, MikroTik, IPsec VPN, WireGuard, NAT/PAT, ACLs, FreeRADIUS</div>
+                      <div className="text-slate-600">pfSense, MikroTik, WireGuard, NAT/PAT, ACLs, FreeRADIUS, Network Segmentation</div>
                     </div>
                     <div>
                       <div className="font-bold text-slate-900">Cloud</div>
